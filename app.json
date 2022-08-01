@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "focustime",
+    "slug": "snack-b2717ccb-d9e4-4fbb-8d67-891b3e5c9312",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/focus.png",
+    "splash": {
+      "image": "./assets/focus.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/focus.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.focus"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
